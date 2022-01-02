@@ -1,7 +1,16 @@
-set nu
-set shiftwidth=4 
-set softtabstop=4
+:set fenc=utf-8
 
-set autoindent
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+:set nu
+
+set autoindent 
 set cindent
+
+
+"high light current line"
+:set cursorline
+
+set hlsearch
 
