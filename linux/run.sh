@@ -29,4 +29,5 @@ sudo apt-get install git git-flow -y
 cp ~/.gitconfig ~/.gitconfig_bg
 cp gitconfig ~/.gitconfig
 
-
+## language.sh
+sh language.sh
